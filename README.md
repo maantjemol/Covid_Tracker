@@ -7,12 +7,13 @@ A covid-19 statistics tracker made with a NodeMCU and a LCD screen.
 You first need to hook up the pins of the NodeMCU to the lcd. the pins you need to connect are:
 ```
 Connect pins:
-RS to D2
-EN to D3
-d4 to D6
-d5 to D7
-d6 to D8
-d7 to RX
+LCD:   NODE MCU:
+RS --> D2
+EN --> D3
+d4 --> D6
+d5 --> D7
+d6 --> D8
+d7 --> RX
 ```
 
 ### Installation
