@@ -8,8 +8,8 @@
 LiquidCrystal lcd(4, 0, 12, 13, 15, 3);
 
 
-const char* ssid = "Zoggo54943";
-const char* password = "rF7wJKcDVeW@";
+const char* ssid = "WiFi ssid";
+const char* password = "WiFi password";
 int tijd = 6000;
 
 //void setup () {
