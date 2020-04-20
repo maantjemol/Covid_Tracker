@@ -1,4 +1,4 @@
-# Covid_Tracker
+# Covid Tracker
 ![Image description](https://i.ibb.co/X5tR3qB/20200420-161333.jpg)
 A covid-19 statistics tracker made with a NodeMCU and a LCD screen.
 ### Prerequisites
